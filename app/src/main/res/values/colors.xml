@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tipo_planta">#46d1b1</color>
+    <color name="tipo_fuego">#fd7d24</color>
+    <color name="tipo_agua">#4592c4</color>
+    <color name="tipo_bicho">#729f3f</color>
+    <color name="tipo_electrico">#eed535</color>
+    <color name="tipo_fantasma">#7b62a3</color>
+    <color name="tipo_psiquico">#f366b9</color>
+    <color name="tipo_normal">#a4acaf</color>
+    <color name="tipo_tierra">#a28c21</color>
+    <color name="tipo_dragon"> #f16e57</color>
+    <color name="tipo_hielo">#51c4e7</color>
+    <color name="tipo_lucha">#d56723</color>
+    <color name="tipo_siniestro"> #707070</color>
+</resources>
